@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #007BFF;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, I'm [Soham Ganesh Sankpal]!</h1>
+        <p>Welcome to my personal introduction page. Let me tell you a little bit about myself.</p>
+        <h2>About Me</h2>
+        <p>I am a [First year student] with a passion for [Watching movies]. I enjoing [my collage life].</p>
+        <h2>Experience</h2>
+        <p>I have no experience 
+        <h2>Contact</h2>
+        <p>If you'd like to get in touch, feel free to reach out to me via [7276794451].</p>
+    </div>
+</body>
+</html>
