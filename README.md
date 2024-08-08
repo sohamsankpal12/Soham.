@@ -60,12 +60,12 @@ https://github.com/sohamsankpal12/soham-sankpal/issues/2
 </head>
 <body>
     <div class="profile-container">
-        <img src="your-image.jpg" alt="Your Name" class="profile-image">
+        <img src="https://github.com/user-attachments/assets/57e7779f-6f90-40a5-b11b-c94e8e8ae7df" alt="soham sankpal" class="BCA">
         <h1>Your Name</h1>
         <p>Your Professional Title</p>
         <p>Your Email Address</p>
 
-        <div class="qualifications">
+        <div class="completed 12th">
             <h2>Qualifications</h2>
             <ul>
                 <li>Qualification 1</li>
